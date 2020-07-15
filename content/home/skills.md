@@ -22,7 +22,7 @@ subtitle = ""
   
 [[feature]]
   icon = "sigma"
-  icon_pack = "fas"
+  icon_pack = "fab"
   name = "Discrete Math"
 #  description = "60%"  
   
