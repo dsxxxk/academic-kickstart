@@ -29,13 +29,13 @@ social:
     link: https://github.com/dsxxxk
 education:
   courses:
-    - course: PhD in Quantum Computing
+    - course: PhD Candidate in Computer Science
       institution: National University of Singapore
-      year: 2019-
+      year: ""
     - course: BSc in Computer Science
       institution: Sichuan University
-      year: 2015-2019
-email: ""
+      year: ""
+email: francisbao1011@gmail.com
 user_groups:
   - Researchers
   - Visitors
