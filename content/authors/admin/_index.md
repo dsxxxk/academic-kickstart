@@ -39,4 +39,4 @@ user_groups:
   - Researchers
   - Visitors
 ---
-Jinge (Francis) Bao is now pursuing his PhD degree at Centre for Quantum Technologies(CQT) in National University of Singapore(NUS). His major interests are quantum computing and quantum information. He is also interested in machine learning and other theoretical problems of computer science.
+Jinge (Francis) Bao is now pursuing his PhD degree at Centre for Quantum Technologies (CQT) in National University of Singapore (NUS). His major interests are quantum computing and quantum information. He is also interested in machine learning and other theoretical problems of computer science.
