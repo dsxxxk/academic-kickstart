@@ -7,13 +7,12 @@ authors:
   - admin
 title: Jinge (Francis) Bao
 role: PhD Candidate
-bio: My research interests include quantum computing, machine learning and other
-  TCS things.
+bio: My research interests include quantum computing and information, machine
+  learning and other TCS things.
 interests:
-  - Quantum Computing
-  - Quantum Information
-  - Quantum Cryptography
+  - Quantum Computing and Information
   - Maching Learning
+  - Computation Complexity
 social:
   - icon: envelope
     icon_pack: fas
