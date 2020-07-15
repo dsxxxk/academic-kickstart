@@ -15,13 +15,13 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "fa-python"
+  icon = "python"
   icon_pack = "fab"
   name = "Programming"
 #  description = "60%"
   
 [[feature]]
-  icon = "fa-sigma"
+  icon = "sigma"
   icon_pack = "fas"
   name = "Discrete Math"
 #  description = "60%"  
