@@ -22,8 +22,8 @@ date_format = "Jan 2006"
   company = "Zhuoshi Trading"
   company_url = ""
   location = "Beijing"
-  date_start = "2020-01-04"
-  date_end = "2020-04-30"
+  date_start = "2019-01-04"
+  date_end = "2019-04-30"
   description = """Designing and constructing a low-latency trading system with teammates"""
 #  Responsibilities include: Design, construction and testing.
 
@@ -33,7 +33,7 @@ date_format = "Jan 2006"
   company_url = ""
   location = "Hangzhou"
   date_start = "2019-7-15"
-  date_end = "2020-12-31"
+  date_end = "2019-12-31"
   description = """Research about Neuremorphic Computing"""
 
 +++
