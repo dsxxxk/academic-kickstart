@@ -23,7 +23,7 @@ social:
   - icon: google-scholar
     icon_pack: ai
     link: https://scholar.google.com/jingebao
-- icon: github
+  - icon: github
     icon_pack: fab
     link: https://github.com/dsxxxk
 education:
