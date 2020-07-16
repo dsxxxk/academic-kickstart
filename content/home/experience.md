@@ -26,11 +26,6 @@ date_format = "Jan 2006"
   date_end = "2020-04-30"
   description = """Designing and constructing a low-latency trading system with teammates"""
 #  Responsibilities include: Design, construction and testing.
-  
-  * Analysing
-  * Modelling
-  * Deploying
-  """
 
 [[experience]]
   title = "Research Assistant"
